@@ -15,6 +15,9 @@ A 50-second demo video of the functionality is available here:
 - Uses the latest price from the associated pricelist, if available.
 - Falls back to the default product price if no pricelist is defined.
 
+### Possible Improvement for the UI
+
+An additional enhancement could be to introduce a button to fetch the new prices for all the products at once or to periodically auto-fetch the latest prices.
 
 ### Possible Improvements for the offline session:
 
